@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 This is the feature branch content.
 Another change in main branch.
-=======
 Fix added in fix branch.
->>>>>>> 7603a1f (Fix: update feature.txt in fix branch)
